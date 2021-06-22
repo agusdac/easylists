@@ -1,0 +1,5 @@
+/* Adding the catalan flag */
+i.flag.es.ca:before,
+i.flag.catalonia:before {
+  background-position: 0 -936px;
+}
